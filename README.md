@@ -1,12 +1,15 @@
 <h1 align="center">kaialex22
   
-![keqing-front](https://img.shields.io/static/v1?label=&message=keqing&color=gray&style=flat-square)<img src="img/keqing.png" alt="" width=20 height=20/>![keqing-back](https://img.shields.io/static/v1?label=&message=sleeping&color=blueviolet&style=flat-square)
+![keqing-front](https://img.shields.io/static/v1?label=&message=keqing&color=gray&style=flat-square)<img src="img/keqing.png" alt="keqing" width=20 height=20/>![keqing-back](https://img.shields.io/static/v1?label=&message=sleeping&color=blueviolet&style=flat-square)
 ![nilou-front](https://img.shields.io/static/v1?label=&message=nilou&color=gray&style=flat-square)<img src="img/nilou.png" alt="nilou" width=20 height=20/>![nilou-back](https://img.shields.io/static/v1?label=&message=cute&color=009DBF&style=flat-square)
 
 </h1>
 
 <h2>⚡️Learning</h2>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<div align="left">
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</div>
 
 <h2>🌱Research</h2>
 <img src="./img/game.png" alt="game" width="100" height="100"/>

@@ -2,7 +2,7 @@
   
 ![keqing-front](https://img.shields.io/static/v1?label=&message=keqing&color=gray&style=flat-square)<img src="img/keqing.png" alt="keqing" width=20 height=20/>![keqing-back](https://img.shields.io/static/v1?label=&message=sleeping&color=blueviolet&style=flat-square)
 ![nilou-front](https://img.shields.io/static/v1?label=&message=nilou&color=gray&style=flat-square)<img src="img/nilou.png" alt="nilou" width=20 height=20/>![nilou-back](https://img.shields.io/static/v1?label=&message=cute&color=009DBF&style=flat-square)
-![neuvillette-front](https://img.shields.io/static/v1?label=&message=nilou&color=gray&style=flat-square)<img src="img/nuvi.png" alt="neuvillette" width=20 height=20/>![neuvillette-back](https://img.shields.io/static/v1?label=&message=strong&color=#e0fffe&style=flat-square)
+![neuvillette-front](https://img.shields.io/static/v1?label=&message=nilou&color=gray&style=flat-square)<img src="img/nuvi.png" alt="neuvillette" width=20 height=20/>![neuvillette-back](https://img.shields.io/static/v1?label=&message=strong&color=e0fffe&style=flat-square)
 
 </h1>
 
